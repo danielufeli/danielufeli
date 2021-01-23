@@ -14,8 +14,8 @@
 
 - 🌐 &nbsp; PHP | JavaScript | React | Vue | Bootstrap | HTML | CSS| Android | flutter | Dart
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Photoshop
+- 🔧 &nbsp; Visual Studio code | Git | Android Studio
+- 🖥 &nbsp; Photoshop | Adobe Xd | Figma
 
 <br>
 
