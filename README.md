@@ -1,4 +1,6 @@
-<h2> Hi There! I'm Daniel Ufeli. <img src="https://github.com/danielufeli/danielufeli/blob/master/header.png" /></h2>
+<h2> Hi There! I'm Daniel Ufeli.</h2>
+
+<img src="https://github.com/danielufeli/danielufeli/blob/main/header.png" />
 
 <h3> About Me </h3>
 
