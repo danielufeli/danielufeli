@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; PHP | JavaScript | React | Vue | Bootstrap | HTML | CSS| Android | flutter | Dart
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Git | Android Studio
-- 🖥 &nbsp; Photoshop | Adobe Xd | Figma
+- 🌐 &nbsp; <i> PHP | JavaScript | React | Vue | Bootstrap | HTML | CSS| Android | flutter | Dart </i>
+- 🛢 &nbsp; <i>MySQL | Firebase | Xampp </i>
+- 🔧 &nbsp; <i>Visual Studio code | Git | Android Studio</i>
+- 🖥 &nbsp; <i>Photoshop | Adobe Xd | Figma</i>
 
 <br>
 
