@@ -2,6 +2,8 @@
 
 <img src="https://github.com/danielufeli/danielufeli/blob/main/header.png" />
 
+![](https://komarev.com/ghpvc/?username=danielufeli)
+
 <h3> About Me </h3>
 
 - 🔭 &nbsp; I’m currently a full stack web engineer
