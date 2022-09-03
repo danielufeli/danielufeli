@@ -9,8 +9,7 @@
 - 🔭 &nbsp; I’m currently a full stack web engineer
 - 🤔 &nbsp; I love Exploring new technologies and developing unique software solutions.
 - 🌱 &nbsp; Enthusiast in Data science and Artificial Intelligence .
-- ✍️ &nbsp; I Love football (An Arsenal F.C. Fan).
-- ☕ &nbsp; I belive, a perfect wine can be the ultimate solution for any stress. 
+- ✍️ &nbsp; I Love football (An Arsenal F.C. Fan). 
 
 <h3>🛠 Tech Stack</h3>
 
